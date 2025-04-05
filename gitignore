@@ -1,0 +1,38 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data
+data/output_pointclouds/
+data/segmented_regions/
+data/route_points/
+data/refined_routes/
+data/screw_paths/
+
+# Models
+__pycache__/
+*.pth
